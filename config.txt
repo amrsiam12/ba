@@ -1,0 +1,6 @@
+owner=569947283421003777
+prefix=B
+game=BasHa  | Bplay
+stayinchannel=true
+songinstatus=false
+token=NTc5ODI1NTQ5MzI5ODI1Nzkz.XOIdTg.D2zBRugX9_QsQFbkH1QVpDTNQmQ
